@@ -1,0 +1,9 @@
+import rook
+
+
+
+if __name__ == "__main__":
+
+rook.start(token='e5cf0b85424a56875ff8a6f9c359fa6584079b8322e5db91dda0299d4392c4ba')
+
+    # Your program starts here :)
